@@ -1,3 +1,4 @@
+#A simple program for checking if given number is prime or not using python
 def prim1(user):
         prime=True
         for i in range(2,user):
